@@ -58,5 +58,17 @@ body {
 	float: left;
 }
 
-
-
+.intro {
+	font-family: 'Anonymous Pro', serif;
+	font-weight: 700;
+	font-style: italic;
+	color: black;
+	font-size: 1.25em;
+	line-height: 1.25em;
+	/*background-color: #800000;*/
+	position: absolute;
+	float: right;
+	top: 150px;
+	right: 200px;
+	padding: 20px;
+}
